@@ -1,0 +1,13 @@
+div{
+    text-align: center;
+    margin: 25px;
+}
+a{
+    background-color: rgb(175, 186, 231);
+    padding: 14px 28px; 
+    cursor: pointer; 
+    color:rgb(0, 0, 0);
+}
+.Link:hover {
+    background-color: rgb(218, 222, 236);
+}
